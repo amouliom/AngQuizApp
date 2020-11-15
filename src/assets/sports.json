@@ -1,0 +1,152 @@
+{
+    "response_code": 0,
+    "category": "Sports",
+    "results": [
+    {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In a game of snooker, what colour ball is worth 3 points?",
+    "questionTypeId": 1,
+    "questionId": 2000,
+    "correct_answer": "Green",
+    "choices": [
+        { "id": 1, "questionId": 2000, "choice": "Yellow", "answer": false},
+        { "id": 2, "questionId": 2000, "choice": "Brown", "answer": false},
+        { "id": 3, "questionId": 2000, "choice": "Green", "answer": true},
+        { "id": 4, "questionId": 2000, "choice": "Blue", "answer": false}
+    ]
+    },
+    {
+    "category": "Sports",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Soccer player Cristiano Ronaldo opened a museum dedicated to himself.",
+    "questionTypeId": 1,
+    "questionId": 2001,
+    "correct_answer": "True",
+    "choices": [
+        { "id": 1, "questionId": 2001, "choice": "True", "answer": true},
+        { "id": 2, "questionId": 2001, "choice": "False", "answer": false}
+    ]
+    },
+    {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Where was the Games of the XXII Olympiad held?",
+    "questionTypeId": 1,
+    "questionId": 2002,
+    "correct_answer": "Moscow",
+    "choices": [
+        { "id": 1, "questionId": 2002, "choice": "Barcelona", "answer": false},
+        { "id": 2, "questionId": 2002, "choice": "Tokyo", "answer": false},
+        { "id": 3, "questionId": 2002, "choice": "Moscow", "answer": true},
+        { "id": 4, "questionId": 2002, "choice": "Los Angeles", "answer": false}
+    ]
+    },
+    {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which male player won the gold medal of table tennis singles in 2016 Olympics Games?",
+    "questionTypeId": 1,
+    "questionId": 2003,
+    "correct_answer": "Ma Long (China)",
+    "choices": [
+        { "id": 1, "questionId": 2003, "choice": "Zhang Jike (China)", "answer": false},
+        { "id": 2, "questionId": 2003, "choice": "Jun Mizutani (Japan)", "answer": false},
+        { "id": 3, "questionId": 2003, "choice": "Vladimir Samsonov (Belarus)", "answer": false},
+        { "id": 4, "questionId": 2003, "choice": "Ma Long (China)", "answer": true}
+    ]
+    },
+    {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which sport is NOT traditionally played during the Mongolian Naadam festival?",
+    "questionTypeId": 1,
+    "questionId": 2004,
+    "correct_answer": "American Football",
+    "choices": [
+        { "id": 1, "questionId": 2004, "choice": "American Football", "answer": true},
+        { "id": 2, "questionId": 2004, "choice": "Wrestling", "answer": false},
+        { "id": 3, "questionId": 2004, "choice": "Archery", "answer": false},
+        { "id": 4, "questionId": 2004, "choice": "Horse-Racing", "answer": false}
+    ]
+    },
+    {
+    "category": "Sports",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "In 2008, Usain Bolt set the world record for the 100 meters with one shoelace untied.",
+    "questionTypeId": 1,
+    "questionId": 2005,
+    "correct_answer": "True",
+    "choices": [
+        { "id": 1, "questionId": 2005, "choice": "True", "answer": true},
+        { "id": 2, "questionId": 2005, "choice": "False", "answer": false}
+    ]
+    },
+    {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which player holds the NHL record of 2,857 points?",
+    "questionTypeId": 1,
+    "questionId": 2006,
+    "correct_answer": "Wayne Gretzky",
+    "choices": [
+        { "id": 1, "questionId": 2006, "choice": "Wayne Gretzky", "answer": true},
+        { "id": 2, "questionId": 2006, "choice": "Mario Lemieux", "answer": false},
+        { "id": 3, "questionId": 2006, "choice": "Sidney Crosby", "answer": false},
+        { "id": 4, "questionId": 2006, "choice": "Gordie Howe", "answer": false}
+    ]
+    },
+    {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which year did Jenson Button won his first ever Formula One World Drivers' Championship?",
+    "questionTypeId": 1,
+    "questionId": 2007,
+    "correct_answer": "2009",
+    "choices": [
+        { "id": 1, "questionId": 2007, "choice": "2010", "answer": false},
+        { "id": 2, "questionId": 2007, "choice": "2009", "answer": true},
+        { "id": 3, "questionId": 2007, "choice": "2007", "answer": false},
+        { "id": 4, "questionId": 2007, "choice": "2006", "answer": false}
+    ]
+    },
+    {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who won the UEFA Champions League in 2017?",
+    "questionTypeId": 1,
+    "questionId": 2008,
+    "correct_answer": "Real Madrid C.F.",
+    "choices": [
+        { "id": 1, "questionId": 2008, "choice": "Atletico Madrid", "answer": false},
+        { "id": 2, "questionId": 2008, "choice": "AS Monaco FC", "answer": false},
+        { "id": 3, "questionId": 2008, "choice": "Real Madrid C.F.", "answer": true},
+        { "id": 4, "questionId": 2008, "choice": "Juventus F.C.", "answer": false}
+    ]
+    },
+    {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who won the 2011 Stanley Cup?",
+    "questionTypeId": 1,
+    "questionId": 2009,
+    "correct_answer": "Boston Bruins",
+    "choices": [
+        { "id": 1, "questionId": 2009, "choice": "Montreal Canadiens", "answer": false},
+        { "id": 2, "questionId": 2009, "choice": "New York Rangers", "answer": false},
+        { "id": 3, "questionId": 2009, "choice": "Toronto Maple Leafs", "answer": false},
+        { "id": 4, "questionId": 2009, "choice": "Boston Bruins", "answer": true}
+    ]
+    }
+    ]
+}

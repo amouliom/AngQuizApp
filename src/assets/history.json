@@ -1,0 +1,155 @@
+{
+    "response_code": 0,
+    "category": "History",
+    "results": [
+    {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many manned moon landings have there been?",
+    "questionTypeId": 1,
+    "questionId": 2000,
+    "correct_answer": "6",
+    "choices": [
+        { "id": 1, "questionId": 2000, "choice": "1", "answer": false},
+        { "id": 2, "questionId": 2000, "choice": "3", "answer": false},
+        { "id": 3, "questionId": 2000, "choice": "6", "answer": true},
+        { "id": 4, "questionId": 2000, "choice": "7", "answer": false}
+    ]
+    },
+    {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The idea of Socialism was articulated and advanced by whom?",
+    "questionTypeId": 1,
+    "questionId": 2001, 
+    "correct_answer": "Karl Marx",
+    "choices": [
+        { "id": 1, "questionId": 2001, "choice": "Karl Marx", "answer": true},
+        { "id": 2, "questionId": 2001, "choice": "Vladimir Lenin", "answer": false},
+        { "id": 3, "questionId": 2001, "choice": "Joseph Stanlin", "answer": false},
+        { "id": 4, "questionId": 2001, "choice": "Vladimir Putin", "answer": false}
+    ]
+    },
+    {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When did Jamaica recieve its independence from England? ",
+    "questionTypeId": 1,
+    "questionId": 2002, 
+    "correct_answer": "1962",
+    "choices": [
+        { "id": 1, "questionId": 2002, "choice": "1492", "answer": false},
+        { "id": 2, "questionId": 2002, "choice": "1962", "answer": true},
+        { "id": 3, "questionId": 2002, "choice": "1963", "answer": false},
+        { "id": 4, "questionId": 2002, "choice": "1987", "answer": false}
+    ]
+    },
+    {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Herero genocide was perpetrated in Africa by which of the following colonial nations?",
+    "questionTypeId": 1,
+    "questionId": 2003, 
+    "correct_answer": "Germany",
+    "choices": [
+        { "id": 1, "questionId": 2003, "choice": "Britain", "answer": false},
+        { "id": 2, "questionId": 2003, "choice": "Belgium", "answer": false},
+        { "id": 3, "questionId": 2003, "choice": "Germany", "answer": true},
+        { "id": 4, "questionId": 2003, "choice": "France", "answer": false}
+    ]
+    },
+    {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "On which day did the attempted coup d'etat of 1991 in the Soviet Union begin?",
+    "questionTypeId": 1,
+    "questionId": 2004, 
+    "correct_answer": "August 19",
+    "choices": [
+        { "id": 1, "questionId": 2004, "choice": "August 19", "answer": true},
+        { "id": 2, "questionId": 2004, "choice": "August 21", "answer": false},
+        { "id": 3, "questionId": 2004, "choice": "December 26", "answer": false},
+        { "id": 4, "questionId": 2004, "choice": "December 24", "answer": false}
+    ]
+    },
+    {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What did the first vending machines in the early 1880's dispense?",
+    "questionTypeId": 1,
+    "questionId": 2005, 
+    "correct_answer": "Post cards",
+    "choices": [
+        { "id": 1, "questionId": 2005, "choice": "Alcohol", "answer": false},
+        { "id": 2, "questionId": 2005, "choice": "Post Cards", "answer": true},
+        { "id": 3, "questionId": 2005, "choice": "Cigarettes", "answer": false},
+        { "id": 4, "questionId": 2005, "choice": "Sodas", "answer": false}
+    ]
+    },
+    {
+    "category": "History",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Kublai Khan is the grandchild of Genghis Khan?",
+    "questionTypeId": 1,
+    "questionId": 2006, 
+    "correct_answer": "True",
+    "choices": [
+        { "id": 1, "questionId": 2006, "choice": "True", "answer": true},
+        { "id": 2, "questionId": 2006, "choice": "False", "answer": false}
+
+    ]
+    },
+    {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which English king was married to Eleanor of Aquitaine?",
+    "questionTypeId": 1,
+    "questionId": 2007, 
+    "correct_answer": "Henry II",
+    "choices": [
+        { "id": 1, "questionId": 2007, "choice": "Richard I", "answer": false},
+        { "id": 2, "questionId": 2007, "choice": "Henry I", "answer": false},
+        { "id": 3, "questionId": 2007, "choice": "Henry II", "answer": true},
+        { "id": 4, "questionId": 2007, "choice": "Henry V", "answer": false}
+    ]
+    },
+    {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Bohemian Revolt (1618-1620) started after Protestants in Prague did what to their Catholic Lords Regents?",
+    "questionTypeId": 1,
+    "questionId": 2008, 
+    "correct_answer": "Threw them out of a window",
+    "choices": [
+        { "id": 1, "questionId": 2008, "choice": "Threw them out of a window", "answer": true},
+        { "id": 2, "questionId": 2008, "choice": "Insulted their mothers", "answer": false},
+        { "id": 3, "questionId": 2008, "choice": "Locked them in stockades", "answer": false},
+        { "id": 4, "questionId": 2008, "choice": "Hung them.", "answer": false}
+    ]
+    },
+    {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Thirty Years War ended with which treaty?",
+    "questionTypeId": 1,
+    "questionId": 2009, 
+    "correct_answer": "Peace of Westphalia",
+    "choices": [
+        { "id": 1, "questionId": 2009, "choice": "Treaty of Versailles", "answer": false},
+        { "id": 2, "questionId": 2009, "choice": "Treaty of Paris", "answer": false},
+        { "id": 3, "questionId": 2009, "choice": "Peace of Westphalia", "answer": true},
+        { "id": 4, "questionId": 2009, "choice": "Peace of Prague", "answer": false}
+    ]
+    }
+    ]
+}

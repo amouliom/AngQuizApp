@@ -1,0 +1,148 @@
+{
+    "response_code": 0,
+    "category": "Mixed",
+    "results": [
+    {
+    "category": "Mixed",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many Chaos Emeralds are there in the 'Sonic the Hedgehog' universe?",
+    "questionTypeId": 1,
+    "questionId": 2000,
+    "correct_answer": "7",
+    "choices": [
+        { "id": 1, "questionId": 2000, "choice": "6", "answer": false},
+        { "id": 2, "questionId": 2000, "choice": "7", "answer": true},
+        { "id": 3, "questionId": 2000, "choice": "8", "answer": false},
+        { "id": 4, "questionId": 2000, "choice": "14", "answer": false}
+    ]
+    },
+    {
+    "category": "Mixed",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who is the lead singer of Silverchair?",
+    "questionTypeId": 1,
+    "questionId": 2001,
+    "correct_answer": "Daniel Johns",
+    "choices": [
+        { "id": 1, "questionId": 2001, "choice": "Ben Gillies", "answer": false},
+        { "id": 2, "questionId": 2001, "choice": "Daniel Johns", "answer": true},
+        { "id": 3, "questionId": 2001, "choice": "Chris Joannou", "answer": false},
+        { "id": 4, "questionId": 2001, "choice": "George Constanza", "answer": false}
+    ]
+    },
+    {
+    "category": "Mixed",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was Ash Ketchum's second Pokemon?",
+    "questionTypeId": 1,
+    "questionId": 2002,
+    "correct_answer": "Caterpie",
+    "choices": [
+        { "id": 1, "questionId": 2002, "choice": "Charmander", "answer": false},
+        { "id": 2, "questionId": 2002, "choice": "Pikachu", "answer": false},
+        { "id": 3, "questionId": 2002, "choice": "Pidgey", "answer": false},
+        { "id": 4, "questionId": 2002, "choice": "Caterpie", "answer": true}
+    ]
+    },
+    {
+    "category": "Mixed",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "The term 'Spam' came before the food product 'Spam'.",
+    "questionTypeId": 1,
+    "questionId": 2003,
+    "correct_answer": "False",
+    "choices": [
+        { "id": 1, "questionId": 2003, "choice": "True", "answer": false},
+        { "id": 2, "questionId": 2003, "choice": "False", "answer": true}
+    ]
+    },
+    {
+    "category": "Mixed",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "In Splatoon, the Squid Sisters are named Tako and Yaki.",
+    "questionTypeId": 1,
+    "questionId": 2004,
+    "correct_answer": "False",
+    "choices": [
+        { "id": 1, "questionId": 2004, "choice": "True", "answer": false},
+        { "id": 2, "questionId": 2004, "choice": "False", "answer": true}
+    ]
+    },
+    {
+    "category": "Mixed",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "A flock of crows is known as a homicide.",
+    "questionTypeId": 1,
+    "questionId": 2005,
+    "correct_answer": "False",
+    "choices": [
+        { "id": 1, "questionId": 2005, "choice": "True", "answer": false},
+        { "id": 2, "questionId": 2005, "choice": "False", "answer": true}
+    ]
+    },
+    {
+    "category": "Mixed",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of rocky region that spans most of eastern Canada?",
+    "questionTypeId": 1,
+    "questionId": 2006,
+    "correct_answer": "Canadian Shield",
+    "choices": [
+        { "id": 1, "questionId": 2006, "choice": "Canadian Shield", "answer": true},
+        { "id": 2, "questionId": 2006, "choice": "Rocky Mountains", "answer": false},
+        { "id": 3, "questionId": 2006, "choice": "Appalachian Mountains", "answer": false},
+        { "id": 4, "questionId": 2006, "choice": "Himalayas", "answer": false}
+    ]
+    },
+    {
+    "category": "Mixed",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which Teenage Mutant Ninja Turtle traditionally wears an orange bandana?",
+    "questionTypeId": 1,
+    "questionId": 2007,
+    "correct_answer": "Michelangelo",
+    "choices": [
+        { "id": 1, "questionId": 2007, "choice": "Leonardo", "answer": false},
+        { "id": 2, "questionId": 2007, "choice": "Michelangelo", "answer": true},
+        { "id": 3, "questionId": 2007, "choice": "Donatello", "answer": false},
+        { "id": 4, "questionId": 2007, "choice": "Raphael", "answer": false}
+    ]
+    },
+    {
+    "category": "Mixed",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "The Fiat Multipla is a drivable car in 'Forza Horizon 3'.",
+    "questionTypeId": 1,
+    "questionId": 2008,
+    "correct_answer": "False",
+    "choices": [
+        { "id": 1, "questionId": 2008, "choice": "True", "answer": false},
+        { "id": 2, "questionId": 2008, "choice": "False", "answer": true}
+    ]
+    },
+    {
+    "category": "Mixed",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the alligator in Where's My Water?",
+    "questionTypeId": 1,
+    "questionId": 2009,
+    "correct_answer": "Swampy",
+    "choices": [
+        { "id": 1, "questionId": 2009, "choice": "Cranky", "answer": false},
+        { "id": 2, "questionId": 2009, "choice": "Crocky", "answer": true},
+        { "id": 3, "questionId": 2009, "choice": "Swampy", "answer": true},
+        { "id": 4, "questionId": 2009, "choice": "Justice", "answer": false}
+    ]
+    }
+    ]
+}

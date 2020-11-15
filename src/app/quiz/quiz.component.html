@@ -1,0 +1,70 @@
+<!-- First Row: Header Section / Quiz Selection -->
+<div *ngIf="view=='main'" class="bg-dark">
+    <div class="row">
+        <div class="col-6">
+            <h1 class="lead">Angular App</h1>
+        </div>
+        <div class="col-6 text-right">
+            Select Quiz:
+            <select [(ngModel)]="quizFile" (change)="getQuiz(quizFile)" [disabled]="page.index>0">
+                <option *ngFor="let el of quizzes" [value]="el.id">{{el.name}}</option>
+            </select>
+        </div>
+    </div>
+
+    <!-- Second Row: Quiz Name -->
+    <div class="row p-3 text-center">
+        <div class="col-12">
+            <h1 class="lead">{{quiz.category}} Quiz</h1>
+        </div>
+    </div>
+    <!-- Third Row: Quiz Form / Quiz Question -->
+    <div *ngIf="view=='main'">
+        <div class="row p-3" *ngFor="let q of questions;">
+            <div class="col-12">
+                <div>
+                    <h1 class="lead"> {{page.index + 1}}. {{q.question}}</h1>
+                </div>
+            </div>
+            <!-- Quiz Answer Choices -->
+            <div class="col-12"  *ngFor="let o of q.choices">
+                <div class="form-check option">
+                    <label class="form-check-label"  [attr.for]="o.id">
+                        <input id="{{o.id}}" type="checkbox" [(ngModel)]="o.selected" class="checkbox-round" (change)="select(q, o);" /> {{o.choice}}           
+                    </label>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Fifth Row: Control Buttoms / Submit Form -->
+    <div class="row text-center">
+        <div class="col-12 p-3">
+            <button class="btn btn-danger mr-2"(click)="prevQuestion()" [disabled]="page.index<=0">Prev</button>
+            <button class="btn btn-primary mr-2" (click)="nextQuestion()" [disabled]="page.index==9">Next</button>
+            <button class="btn btn-secondary mr-2" [disabled]="page.index<=8" (click)="submit();">Submit</button>
+        </div>
+    </div>
+</div>
+<!-- Results View -->
+
+<div *ngIf="view=='results'">
+    <div class="row">
+        <div class="col-12 text-center">
+            <h1 class="lead">{{quiz.category}} Quiz Results</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <div *ngFor="let q of quiz.results; let index = index">
+                <div class="result-question">
+                <h5>{{index + 1}}. {{q.question}}</h5>
+                <div class="row">
+                    <div class="col-6" *ngFor="let O of q.choices">
+                        <input id="{{O.id}}" type="checkbox" disabled="disabled" [(ngModel)]="O.selected" /> {{O.choice}}
+                    </div>
+                </div>
+                <div class="p-1 m-2 alert {{ correct(q) == 'Correct' ? 'alert-success': 'alert-danger'}}">Your answer is {{correct(q)}}.</div>
+            </div>
+        </div>
+    </div>
+</div>
